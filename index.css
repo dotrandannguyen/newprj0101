@@ -1,0 +1,22 @@
+.italic  {
+    font-style:italic;
+
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color:blue ;
+
+}
+.canle{
+    width:35%;
+    margin:auto;
+    padding:0px;
+    text-align: left;
+    font-size: 129%;
+
+}
+.fontstyle{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
